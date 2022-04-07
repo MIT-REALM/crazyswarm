@@ -3,7 +3,7 @@
 from pycrazyswarm import Crazyswarm
 
 
-TAKEOFF_DURATION = 2.5
+TAKEOFF_DURATION = 2.0
 HOVER_DURATION = 5.0
 
 
